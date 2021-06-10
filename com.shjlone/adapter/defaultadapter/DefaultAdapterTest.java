@@ -1,4 +1,4 @@
-package com.shjlone.designpattern.adapter.defaultadapter;
+package com.shjlone.adapter.defaultadapter;
 
 /**
  * 默认适配器，用于隐藏一些实现细节

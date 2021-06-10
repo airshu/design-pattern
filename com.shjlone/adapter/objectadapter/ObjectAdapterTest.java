@@ -1,4 +1,4 @@
-package com.shjlone.designpattern.adapter.objectadapter;
+package com.shjlone.adapter.objectadapter;
 
 /**
  * 对象适配器模式

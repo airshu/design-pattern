@@ -1,4 +1,4 @@
-package com.shjlone.designpattern.singleton;
+package com.shjlone.singleton;
 
 /**
  * 静态内部类实现

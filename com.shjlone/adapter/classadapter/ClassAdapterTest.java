@@ -1,4 +1,4 @@
-package com.shjlone.designpattern.adapter.classadapter;
+package com.shjlone.adapter.classadapter;
 
 /**
  * 类适配器
