@@ -5,18 +5,18 @@ Java版设计模式
 ## 创建型模式
 
 - [单例模式](https://shjlone.github.io/wiki/设计模式/创建型模式/单例模式/)
-- [原型模式]
-- [工厂模式]
-- [建造者模式]
-- [抽象工厂模式]
+- [原型模式](https://shjlone.github.io/wiki/设计模式/创建型模式/原型模式/)
+- [工厂方法模式](https://shjlone.github.io/wiki/设计模式/创建型模式/工厂方法模式/)
+- [建造者模式](https://shjlone.github.io/wiki/设计模式/创建型模式/建造者模式/)
+- [抽象工厂模式](https://shjlone.github.io/wiki/设计模式/创建型模式/抽象工厂模式/)
 
 ## 结构型模式
 
 - [适配器模式](https://shjlone.github.io/wiki/设计模式/结构型模式/适配器模式/)
-- [享元模式]
+- [享元模式](https://shjlone.github.io/wiki/设计模式/结构型模式/享元模式/)
 - [代理模式](https://shjlone.github.io/wiki/设计模式/结构型模式/代理模式/)
 - [外观模式](https://shjlone.github.io/wiki/设计模式/结构型模式/外观模式/)
-- [桥接模式]
+- [桥接模式](https://shjlone.github.io/wiki/设计模式/结构型模式/桥接模式/)
 - [组合模式]
 - [装饰模式]
 
