@@ -17,8 +17,8 @@ Java版设计模式
 - [代理模式](https://shjlone.github.io/wiki/设计模式/结构型模式/代理模式/)
 - [外观模式](https://shjlone.github.io/wiki/设计模式/结构型模式/外观模式/)
 - [桥接模式](https://shjlone.github.io/wiki/设计模式/结构型模式/桥接模式/)
-- [组合模式]
-- [装饰模式]
+- [组合模式](https://shjlone.github.io/wiki/设计模式/结构型模式/组合模式/)
+- [装饰模式](https://shjlone.github.io/wiki/设计模式/结构型模式/装饰模式/)
 
 ## 行为型模式
 
