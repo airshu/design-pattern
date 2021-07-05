@@ -1,7 +1,7 @@
 package com.shjlone.command;
 
 /**
- * 命令模式
+ * 命令模式：将一个请求封装成对象
  *
  * 支持撤销
  * 执行同时执行多个命令
@@ -10,8 +10,10 @@ package com.shjlone.command;
 public class CommandDemo {
 
     public static void main(String[] args) {
-//        test2();
+        test1();
+        test2();
         test3();
+        test4();
     }
 
     public static void test1() {
@@ -40,6 +42,7 @@ public class CommandDemo {
         remoteControl.setCommand(1, kitchenLightOn, kitchenLightOff);
         remoteControl.setCommand(2, ceilingFanOn, ceilingFanOff);
         remoteControl.setCommand(3, stereoOnWithCDCommand, stereoOffCommand);
+        remoteControl.setCommand(4, garageDoorDownCommand, garageDoorUpCommand);
 
         System.out.println(remoteControl);
 
