@@ -1,6 +1,4 @@
-package com.shjlone.ChainOfResponsibility;
-
-import java.io.IOException;
+package com.shjlone.chain_of_responsibility;
 
 /**
  * 所有拦截器的抽象接口

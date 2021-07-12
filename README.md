@@ -26,8 +26,8 @@ Java版设计模式
 - [命令模式](https://shjlone.github.io/wiki/设计模式/行为型模式/命令模式/)
 - [备忘录模式]
 - [模板方法模式]
-- [状态模式]
-- [策略模式]
+- [状态模式](https://shjlone.github.io/wiki/设计模式/行为型模式/状态模式/)
+- [策略模式](https://shjlone.github.io/wiki/设计模式/行为型模式/策略模式/)
 - [观察者模式](https://shjlone.github.io/wiki/设计模式/行为型模式/观察者模式/)
 - [解释器模式]
 - [访问者模式]

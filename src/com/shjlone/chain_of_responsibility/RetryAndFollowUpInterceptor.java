@@ -1,6 +1,4 @@
-package com.shjlone.ChainOfResponsibility;
-
-import java.io.IOException;
+package com.shjlone.chain_of_responsibility;
 
 public class RetryAndFollowUpInterceptor extends BaseInterceptor {
     @Override

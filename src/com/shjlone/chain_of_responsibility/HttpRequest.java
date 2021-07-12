@@ -1,4 +1,4 @@
-package com.shjlone.ChainOfResponsibility;
+package com.shjlone.chain_of_responsibility;
 
 public class HttpRequest implements Request {
 
