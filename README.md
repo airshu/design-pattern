@@ -33,3 +33,12 @@ Java版设计模式
 - [访问者模式](https://shjlone.github.io/wiki/设计模式/行为型模式/访问者模式/)
 - [责任链模式](https://shjlone.github.io/wiki/设计模式/行为型模式/责任链模式/)
 - [迭代器模式](https://shjlone.github.io/wiki/设计模式/行为型模式/迭代器模式/)
+
+
+
+## 排序算法
+
+- [插入排序](https://shjlone.github.io/wiki/程序语言/算法/插入排序/)
+- [冒泡排序](https://shjlone.github.io/wiki/程序语言/算法/冒泡排序/)
+- [快速排序](https://shjlone.github.io/wiki/程序语言/算法/快速排序/)
+- [选择排序](https://shjlone.github.io/wiki/程序语言/算法/选择排序/)
